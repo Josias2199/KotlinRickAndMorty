@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="last_know_location">Last know location:</string>
+    <string name="url">url</string>
+</resources>
